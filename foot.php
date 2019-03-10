@@ -1,2 +1,3 @@
+    <script src="build/bundle.js" type="text/javascript"></script>
 </body>
 </html>
